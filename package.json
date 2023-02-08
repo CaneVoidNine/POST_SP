@@ -1,0 +1,22 @@
+{
+  "name": "post_sp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-list-endpoints": "^6.0.0",
+    "http-errors": "^2.0.0",
+    "nodemon": "^2.0.20",
+    "pg": "^8.9.0",
+    "sequelize": "^6.28.0"
+  }
+}
